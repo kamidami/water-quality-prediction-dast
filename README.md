@@ -23,7 +23,7 @@ We aim to build a classification model that predicts pollution levels in surface
 The dataset will be sourced from TU Wien Research Data Repository.
 
 ## Contributors
-- A: Your Name (ID)
-- B: Your Name (ID)
-- C: Your Name (ID)
+- A: kamran Ayub (12534788)
+- B: Talha Azeem (12531615)
+- C: Farhan Hoque (12534788)
 - D: Your Name (ID)
