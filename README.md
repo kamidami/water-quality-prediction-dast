@@ -20,7 +20,8 @@ We aim to build a classification model that predicts pollution levels in surface
 - configs: config_<name>.json
 
 ## Dataset
-The dataset will be sourced from TU Wien Research Data Repository.
+The dataset used in this project is obtained from the TU Wien Research Data Repository:
+https://researchdata.tuwien.ac.at/records/v0fsx-ar405
 
 ## Contributors
 - A: Kamran Ayub (12534788)
